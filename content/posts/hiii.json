@@ -5,10 +5,10 @@
   "seoDescription": "",
   "focusKeyword": "",
   "featuredImage": "https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg",
-  "categorySlug": "job-notifications",
+  "categorySlug": "admit-card",
   "content": "<div data-type=\"callout\" class=\"p-4 my-4 rounded-lg border-l-4 text-blue-900 dark:text-blue-200 bg-blue-50 dark:bg-blue-900/30 border-blue-500\" type=\"info\"><p></p></div><img src=\"https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg\"><p>I</p>",
   "author": "Admin",
-  "date": "2026-07-27T11:01:00.000Z",
+  "date": "2026-07-27T05:31:00.000Z",
   "tags": [],
   "tagColor": "bg-green-500",
   "imgGradient": "from-blue-500 to-indigo-600",
@@ -17,5 +17,5 @@
   "location": null,
   "status": "published",
   "_path": "content/posts/hiii.json",
-  "_sha": "6a83c53ccd0b7704fe7797ba08115c92d4ac3948"
+  "_sha": "c57d186dfa2add3bfd335255b0001b8b1284e75b"
 }
