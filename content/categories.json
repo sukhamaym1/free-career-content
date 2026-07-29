@@ -18,5 +18,10 @@
     "id": "cat_1785304556695",
     "name": "Job Notifications",
     "slug": "job-notifications"
+  },
+  {
+    "id": "cat_1785324654551",
+    "name": "Admit Card",
+    "slug": "admit-card"
   }
 ]
