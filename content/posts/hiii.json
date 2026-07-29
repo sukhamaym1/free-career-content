@@ -4,11 +4,11 @@
   "seoTitle": "",
   "seoDescription": "",
   "focusKeyword": "",
-  "featuredImage": "https://ais-dev-kbrrvhdrpengurvmcpnk4w-189682451401.asia-east1.run.app/uploads/1000003864.jpg",
+  "featuredImage": "https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg",
   "categorySlug": "highlight-updates",
-  "content": "<p>I</p>",
+  "content": "<div data-type=\"callout\" class=\"p-4 my-4 rounded-lg border-l-4 text-blue-900 dark:text-blue-200 bg-blue-50 dark:bg-blue-900/30 border-blue-500\" type=\"info\"><p></p></div><img src=\"https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg\"><p>I</p>",
   "author": "Admin",
-  "date": "2026-07-28T03:31:00.000Z",
+  "date": "2026-07-27T22:01:00.000Z",
   "tags": [],
   "tagColor": "bg-green-500",
   "imgGradient": "from-blue-500 to-indigo-600",
@@ -17,5 +17,5 @@
   "location": null,
   "status": "published",
   "_path": "content/posts/hiii.json",
-  "_sha": "459d5437185cea15d34b75e5d0ba231475a66434"
+  "_sha": "0a1b5631d39628b45acf401af3384eff6dd9cf7b"
 }
