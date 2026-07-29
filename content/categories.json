@@ -3,5 +3,10 @@
     "id": "cat_1785304064694",
     "name": "All Blogs",
     "slug": "all-blogs"
+  },
+  {
+    "id": "cat_1785304510360",
+    "name": "Admit Card",
+    "slug": "admit-card"
   }
 ]
