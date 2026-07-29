@@ -18,5 +18,10 @@
     "id": "cat_1785304550594",
     "name": "Results",
     "slug": "results"
+  },
+  {
+    "id": "cat_1785304556695",
+    "name": "Job Notifications",
+    "slug": "job-notifications"
   }
 ]
