@@ -4,11 +4,11 @@
   "seoTitle": "",
   "seoDescription": "",
   "focusKeyword": "",
-  "featuredImage": "",
+  "featuredImage": "https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000007643.png",
   "categorySlug": "results",
   "content": "<div data-type=\"callout\" class=\"p-4 my-4 rounded-lg border-l-4 text-blue-900 dark:text-blue-200 bg-blue-50 dark:bg-blue-900/30 border-blue-500\" type=\"info\"><p>My family is the best of world 🌎 🌍 </p></div><p></p>",
   "author": "Admin",
-  "date": "2026-07-28T12:29:00.000Z",
+  "date": "2026-07-28T06:59:00.000Z",
   "tags": [],
   "tagColor": "bg-green-500",
   "imgGradient": "from-blue-500 to-indigo-600",
@@ -17,5 +17,5 @@
   "location": null,
   "status": "published",
   "_path": "content/posts/i-love-you.json",
-  "_sha": "50a6f8ee670abda20a0d08ef977131b6be547c55"
+  "_sha": "97f897c44374099058498af944312eea591ec78f"
 }
