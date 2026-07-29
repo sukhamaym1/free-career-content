@@ -5,15 +5,17 @@
   "seoDescription": "",
   "focusKeyword": "",
   "featuredImage": "",
-  "categorySlug": "admit-cards",
-  "content": "<p>I </p><p>Obfdcgh</p>",
+  "categorySlug": "all-blogs",
+  "content": "<p>I</p>",
   "author": "Admin",
-  "date": "2026-07-28T14:31:00.000Z",
+  "date": "2026-07-28T09:01:00.000Z",
   "tags": [],
   "tagColor": "bg-green-500",
   "imgGradient": "from-blue-500 to-indigo-600",
   "salary": null,
   "jobType": null,
   "location": null,
-  "status": "published"
+  "status": "published",
+  "_path": "content/posts/hiii.json",
+  "_sha": "6ad2418bae92995a583ad84456adf5911d3e38c8"
 }
