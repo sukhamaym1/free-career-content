@@ -5,7 +5,7 @@
   "seoDescription": "",
   "focusKeyword": "",
   "featuredImage": "https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg",
-  "categorySlug": "results",
+  "categorySlug": "job-notifications",
   "content": "<div data-type=\"callout\" class=\"p-4 my-4 rounded-lg border-l-4 text-blue-900 dark:text-blue-200 bg-blue-50 dark:bg-blue-900/30 border-blue-500\" type=\"info\"><p></p></div><img src=\"https://raw.githubusercontent.com/sukhamaym1/free-career-content/main/public/uploads/1000003864.jpg\"><p>I</p>",
   "author": "Admin",
   "date": "2026-07-27T00:01:00.000Z",
@@ -17,5 +17,5 @@
   "location": null,
   "status": "published",
   "_path": "content/posts/hiii.json",
-  "_sha": "018eb640f73531b018ff25f83a81fac8bcf645aa"
+  "_sha": "fdb5e168ddb2db5f11072e15baa0ee592de6030e"
 }
