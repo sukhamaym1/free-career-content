@@ -8,5 +8,10 @@
     "id": "cat_1785304510360",
     "name": "Admit Card",
     "slug": "admit-card"
+  },
+  {
+    "id": "cat_1785304516092",
+    "name": "Highlight Updates",
+    "slug": "highlight-updates"
   }
 ]
