@@ -5,15 +5,17 @@
   "seoDescription": "",
   "focusKeyword": "",
   "featuredImage": "",
-  "categorySlug": "highlight-updates",
+  "categorySlug": "job-notifications",
   "content": "<p>Rrb</p>",
   "author": "Admin",
-  "date": "2026-07-29T05:59:00.000Z",
+  "date": "2026-07-29T00:29:00.000Z",
   "tags": [],
   "tagColor": "bg-green-500",
   "imgGradient": "from-blue-500 to-indigo-600",
   "salary": null,
   "jobType": null,
   "location": null,
-  "status": "published"
+  "status": "published",
+  "_path": "content/posts/rrb.json",
+  "_sha": "f1358cc809f535e12d1c0aeeb465d4e1b8cff866"
 }
