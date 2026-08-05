@@ -28,5 +28,10 @@
     "id": "tag_1785909007484",
     "name": "Defence",
     "slug": "defence"
+  },
+  {
+    "id": "tag_1785909019022",
+    "name": "Teaching",
+    "slug": "teaching"
   }
 ]
