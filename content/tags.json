@@ -23,5 +23,10 @@
     "id": "tag_1785908997332",
     "name": "Railway",
     "slug": "railway"
+  },
+  {
+    "id": "tag_1785909007484",
+    "name": "Defence",
+    "slug": "defence"
   }
 ]
